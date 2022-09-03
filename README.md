@@ -1,5 +1,7 @@
 # 백준 알고리즘 단계별로 풀어보기
 [백준 사이트 바로가기](https://www.acmicpc.net/)
+- - -
+
 <img src = "https://user-images.githubusercontent.com/58673491/188276507-4327a1ec-f3cb-4c2f-a025-871ef9f9ad6c.png"/>
 
 - - -
