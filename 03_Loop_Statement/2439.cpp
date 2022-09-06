@@ -1,4 +1,4 @@
-// 별 찍기 - 1
+// 별 찍기 - 2
 
 #include <iostream>
 
@@ -9,11 +9,13 @@ int main() {
     int line = 0;
     cin >> line;
     for (int i = 1; i <= line; i++) {
-      for (int j = 1; j <= i; j++) {
-        cout << "*";
-      }
-      cout << "\n";
+        for (int j = 1; j <= line - i; j++) {
+        cout << " ";
+        }  
+        for (int k = 1; k <= i; k++) {
+            cout << "*";
+        }
+        cout << "\n";
     }
-
     return 0;
 }
