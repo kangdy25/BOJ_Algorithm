@@ -7,16 +7,16 @@
 - - -
 ## BOJ Problem Solving - 단계별로 풀어보기
 ### Level 1 - [입출력과 사칙연산](https://www.acmicpc.net/step/1)
-입력, 출력과 사칙연산을 연습해 봅시다. Hello World!
+입력, 출력과 사칙연산을 연습해 봅시다. Hello World!  
 [C++ 코드 보러가기](https://github.com/kangdy25/BOJ_Algorithm/tree/master/01_IO_Operation)
 ### Level 2 - [조건문](https://www.acmicpc.net/step/4)
-if 등의 조건문을 사용해 봅시다.
+if 등의 조건문을 사용해 봅시다.  
 [C++ 코드 보러가기](https://github.com/kangdy25/BOJ_Algorithm/tree/master/02_Conditional_Statement)
 ### Level 3 - [반복문](https://www.acmicpc.net/step/3)
-for, while 등의 반복문을 사용해 봅시다.
+for, while 등의 반복문을 사용해 봅시다.  
 [C++ 코드 보러가기](https://github.com/kangdy25/BOJ_Algorithm/tree/master/03_Loop_Statement)
 ### Level 4 - [1차원 배열](https://www.acmicpc.net/step/6)
-배열을 사용해 봅시다.
+배열을 사용해 봅시다.  
 [C++ 코드 보러가기](https://github.com/kangdy25/BOJ_Algorithm/tree/master/04_One-Dimensional_Array)
 - - -
 ## BOJ Problem Solving 알고리즘 기초 1/2에 포함된 문제
