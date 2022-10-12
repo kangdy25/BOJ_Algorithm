@@ -19,7 +19,7 @@ for, while 등의 반복문을 사용해 봅시다.
 배열을 사용해 봅시다.  
 [C++ 코드 보러가기](https://github.com/kangdy25/BOJ_Algorithm/tree/master/04_One-Dimensional_Array)
 ### Level 5 - [함수](https://www.acmicpc.net/step/5)
-함수를 정의하면 코드가 깔끔해지고 관리하기 쉬워집니다.
+함수를 정의하면 코드가 깔끔해지고 관리하기 쉬워집니다.  
 [C++ 코드 보러가기](https://github.com/kangdy25/BOJ_Algorithm/tree/master/05_Function)
 - - -
 ## BOJ Problem Solving 알고리즘 기초 1/2에 포함된 문제
