@@ -18,16 +18,13 @@ for, while 등의 반복문을 사용해 봅시다.
 ### Level 4 - [1차원 배열](https://www.acmicpc.net/step/6)
 배열을 사용해 봅시다.  
 [C++ 코드 보러가기](https://github.com/kangdy25/BOJ_Algorithm/tree/master/04_One-Dimensional_Array)
-### Level 5 - [함수](https://www.acmicpc.net/step/5)
+### Level 5 - [2차원 배열](https://www.acmicpc.net/step/2)
+배열 안에 배열이 있다면 어떨까요? 2차원 배열을 만들어 봅시다. 
+[C++ 코드 보러가기](https://github.com/kangdy25/BOJ_Algorithm/tree/master/05_Two_Dimensional_Array)
+### Level 6 - [함수](https://www.acmicpc.net/step/5)
 함수를 정의하면 코드가 깔끔해지고 관리하기 쉬워집니다.  
-[C++ 코드 보러가기](https://github.com/kangdy25/BOJ_Algorithm/tree/master/05_Function)
-### Level 6 - [문자열](https://www.acmicpc.net/step/7)
+[C++ 코드 보러가기](https://github.com/kangdy25/BOJ_Algorithm/tree/master/06_Function)
+### Level 7 - [문자열](https://www.acmicpc.net/step/7)
 문자열을 다루는 문제들을 해결해 봅시다.  
-[C++ 코드 보러가기](https://github.com/kangdy25/BOJ_Algorithm/tree/master/06_String)
+[C++ 코드 보러가기](https://github.com/kangdy25/BOJ_Algorithm/tree/master/07_String)
 - - -
-## BOJ Problem Solving 알고리즘 기초 1/2에 포함된 문제
-
-## BOJ Problem Solving 알고리즘 기초 2/2에 포함된 문제
-
-
-https://github.com/kangdy25/BOJ_Algorithm/tree/master/06_String
