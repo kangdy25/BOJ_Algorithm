@@ -1,3 +1,5 @@
+// 윷놀이
+
 #include <bits/stdc++.h>
 using namespace std;
 
