@@ -1,4 +1,5 @@
 // 별 찍기 - 2
+
 #include <bits/stdc++.h>
 using namespace std;
 

@@ -1,3 +1,4 @@
+// 별 찍기 - 8
 #include <bits/stdc++.h>
 using namespace std;
 
