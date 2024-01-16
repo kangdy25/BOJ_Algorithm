@@ -10,3 +10,6 @@
 
 ## BOJ Problem Solving - 실전 알고리즘 목차
 ### Level 1 - [기초 코드 작성 요령](https://www.acmicpc.net/workbook/view/7306)
+- [정답 코드 바로가기](https://github.com/kangdy25/BOJ_Problem_Solving/tree/master/0x01_Basic_Code_Writing)
+### Level 2 - [배열](https://www.acmicpc.net/workbook/view/7307)
+- [정답 코드 바로가기](https://github.com/kangdy25/BOJ_Problem_Solving/tree/master/0x02_Array)
