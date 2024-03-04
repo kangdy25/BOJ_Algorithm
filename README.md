@@ -3,8 +3,8 @@
 <img src = "https://user-images.githubusercontent.com/58673491/188276507-4327a1ec-f3cb-4c2f-a025-871ef9f9ad6c.png"/>
 
 - - -
-
 * [백준 사이트 바로가기](https://www.acmicpc.net/)
+* [백준 단계별로 풀어보기](https://www.acmicpc.net/step)
 * [바킹독 실전 알고리즘 강좌 블로그](https://blog.encrypted.gg/category/%EA%B0%95%EC%A2%8C/%EC%8B%A4%EC%A0%84%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 * [바킹독 깃헙 레포지토리](https://github.com/encrypted-def/basic-algo-lecture)
 
