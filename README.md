@@ -12,6 +12,8 @@
 - [정답 코드 바로가기](https://github.com/kangdy25/BOJ_Problem_Solving/tree/master/Solve_By_Level/Level_3)
 ### Level 4 - [1차원 배열](https://www.acmicpc.net/step/6)
 - [정답 코드 바로가기](https://github.com/kangdy25/BOJ_Problem_Solving/tree/master/Solve_By_Level/Level_4)
+### Level 5 - [문자열](https://www.acmicpc.net/step/7)
+- [정답 코드 바로가기](https://github.com/kangdy25/BOJ_Problem_Solving/tree/master/Solve_By_Level/Level_5)
 
 ## BOJ Problem Solving - 실전 알고리즘 목차
 ### Level 0x01 - [기초 코드 작성 요령](https://www.acmicpc.net/workbook/view/7306)
